@@ -20,3 +20,43 @@
     cursor: pointer;
 
 }
+.cat1{
+    background-image: linear-gradient( rgb(255, 153, 0) 100%, rgba(255, 153, 0, 0.801) 0% );
+
+    
+}
+.cat2{
+    background-image: linear-gradient( rgb(255, 0, 149) 100%, rgba(255, 0, 234, 0.753) 0% );
+    
+}
+.cat3{
+    background-image: linear-gradient( rgb(0, 68, 255) 100%, rgba(0, 68, 255, 0.726) 0% );
+    
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(187, 186, 186);
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
